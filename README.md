@@ -365,7 +365,7 @@ export default Ember.Route.extend({
 ```
 
 ```handlebars
-{{g-maps ... rectangles=rectangles}}
+{{g-maps ... overlays=overlays}}
 ```
 
 **Basic G-Map Component Event**
